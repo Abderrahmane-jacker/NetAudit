@@ -20,7 +20,7 @@ Unlike basic scanners, NetAudit features **Smart Service Detection**, which iden
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Abderrahmane-jacker/Net_Audit.git](https://github.com/Abderrahmane-jacker/NetAudit.git)
+    git clone https://github.com/Abderrahmane-jacker/Net_Audit.git
     cd NetAudit
     ```
 
